@@ -1,4 +1,4 @@
-token=NTE3NzY1NDgyMTg3NzE4NjY2.DuG-YA.038x2Kgfg0EzxZvre_2fgf-ocaQ
+token=NTQyODQwNDUxNTQwMDU4MTIy.Dzz3IA.IbxxJgp0q6yMd7zdNfMQC2vGbnc
 owner=142365251868819457 
 prefix=A1
 game= i Still Want You .
